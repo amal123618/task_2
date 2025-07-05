@@ -18,4 +18,4 @@ Replaces or updates the resource completely or partially.
 
 Idempotent – sending the same request multiple times gives the same result.
 
-Example: PUT /users/1 → updates the user with ID 1.  set this into pdf
+Example: PUT /users/1 → updates the user with ID 1.  
